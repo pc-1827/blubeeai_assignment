@@ -1,0 +1,112 @@
+{
+  "sortedMiddleware": [],
+  "middleware": {},
+  "functions": {
+    "/api/chat/route": {
+      "files": [
+        "server/middleware-build-manifest.js",
+        "server/middleware-react-loadable-manifest.js",
+        "server/next-font-manifest.js",
+        "prerender-manifest.js",
+        "server/edge-runtime-webpack.js",
+        "server/edge-chunks/541.js",
+        "server/app/api/chat/route.js"
+      ],
+      "name": "app/api/chat/route",
+      "page": "/api/chat/route",
+      "matchers": [
+        {
+          "regexp": "^/api/chat$",
+          "originalSource": "/api/chat"
+        }
+      ],
+      "wasm": [],
+      "assets": []
+    },
+    "/api/favicon/route": {
+      "files": [
+        "server/middleware-build-manifest.js",
+        "server/middleware-react-loadable-manifest.js",
+        "server/next-font-manifest.js",
+        "prerender-manifest.js",
+        "server/edge-runtime-webpack.js",
+        "server/edge-chunks/541.js",
+        "server/app/api/favicon/route.js"
+      ],
+      "name": "app/api/favicon/route",
+      "page": "/api/favicon/route",
+      "matchers": [
+        {
+          "regexp": "^/api/favicon$",
+          "originalSource": "/api/favicon"
+        }
+      ],
+      "wasm": [],
+      "assets": []
+    },
+    "/api/search/route": {
+      "files": [
+        "server/middleware-build-manifest.js",
+        "server/middleware-react-loadable-manifest.js",
+        "server/next-font-manifest.js",
+        "prerender-manifest.js",
+        "server/edge-runtime-webpack.js",
+        "server/edge-chunks/541.js",
+        "server/app/api/search/route.js"
+      ],
+      "name": "app/api/search/route",
+      "page": "/api/search/route",
+      "matchers": [
+        {
+          "regexp": "^/api/search$",
+          "originalSource": "/api/search"
+        }
+      ],
+      "wasm": [],
+      "assets": []
+    },
+    "/api/scrape/route": {
+      "files": [
+        "server/middleware-build-manifest.js",
+        "server/middleware-react-loadable-manifest.js",
+        "server/next-font-manifest.js",
+        "prerender-manifest.js",
+        "server/edge-runtime-webpack.js",
+        "server/edge-chunks/541.js",
+        "server/app/api/scrape/route.js"
+      ],
+      "name": "app/api/scrape/route",
+      "page": "/api/scrape/route",
+      "matchers": [
+        {
+          "regexp": "^/api/scrape$",
+          "originalSource": "/api/scrape"
+        }
+      ],
+      "wasm": [],
+      "assets": []
+    },
+    "/api/weather/route": {
+      "files": [
+        "server/middleware-build-manifest.js",
+        "server/middleware-react-loadable-manifest.js",
+        "server/next-font-manifest.js",
+        "prerender-manifest.js",
+        "server/edge-runtime-webpack.js",
+        "server/edge-chunks/541.js",
+        "server/app/api/weather/route.js"
+      ],
+      "name": "app/api/weather/route",
+      "page": "/api/weather/route",
+      "matchers": [
+        {
+          "regexp": "^/api/weather$",
+          "originalSource": "/api/weather"
+        }
+      ],
+      "wasm": [],
+      "assets": []
+    }
+  },
+  "version": 2
+}
